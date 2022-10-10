@@ -1,0 +1,10 @@
+C:\Users\canoz\Desktop\C#\ALLAHin isimleri 3\bin\Debug\ALLAHin isimleri 3.exe.config
+C:\Users\canoz\Desktop\C#\ALLAHin isimleri 3\bin\Debug\ALLAHin isimleri 3.exe
+C:\Users\canoz\Desktop\C#\ALLAHin isimleri 3\bin\Debug\ALLAHin isimleri 3.pdb
+C:\Users\canoz\Desktop\C#\ALLAHin isimleri 3\obj\Debug\ALLAHin isimleri 3.csprojAssemblyReference.cache
+C:\Users\canoz\Desktop\C#\ALLAHin isimleri 3\obj\Debug\ALLAHin_isimleri_3.Form1.resources
+C:\Users\canoz\Desktop\C#\ALLAHin isimleri 3\obj\Debug\ALLAHin_isimleri_3.Properties.Resources.resources
+C:\Users\canoz\Desktop\C#\ALLAHin isimleri 3\obj\Debug\ALLAHin isimleri 3.csproj.GenerateResource.cache
+C:\Users\canoz\Desktop\C#\ALLAHin isimleri 3\obj\Debug\ALLAHin isimleri 3.csproj.CoreCompileInputs.cache
+C:\Users\canoz\Desktop\C#\ALLAHin isimleri 3\obj\Debug\ALLAHin isimleri 3.exe
+C:\Users\canoz\Desktop\C#\ALLAHin isimleri 3\obj\Debug\ALLAHin isimleri 3.pdb
